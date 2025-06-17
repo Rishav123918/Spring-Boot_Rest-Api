@@ -23,7 +23,7 @@ This project demonstrates building a RESTful backend with CRUD operations, Mongo
 | Backend     | Spring Boot 3.2.x              |
 | Database    | MongoDB                        |
 | Build Tool  | Maven                          |
-| Language    | Java 17                        |
+| Language    | Java 21                        |
 | Dev Tools   | Lombok, Spring DevTools        |
 | Testing     | Spring Boot Starter Test       |
 
